@@ -1,11 +1,12 @@
 'use strict';
 
 const resultDiv = document.querySelector('#results');
-const resultsBtn = document.querySelector('#data');
 const idHead = document.querySelector('h3');
+const btnContainer = document.querySelector('.content__btn');
 
 
-resultsBtn.addEventListener('click', () => {
+
+btnContainer.addEventListener('click', () => {
    getAdvice();
 })
 

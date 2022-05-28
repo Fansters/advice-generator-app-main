@@ -47,6 +47,7 @@
 		}
 	}
 	&__btn {
+      cursor: pointer;
 		background-color: #52ffa8;
 		border-radius: 100%;
 		width: 75px;
@@ -55,7 +56,9 @@
 		top: 100%;
 		left: 50%;
 		transform: translate(-50%, -50%);
+      transition: all 0.2s ease;
 		button {
+         cursor: pointer;
 			border: none;
 			background-color: transparent;
 			div {
@@ -78,5 +81,8 @@
 				}
 			}
 		}
+      &:hover{
+         box-shadow: 0px 0px 50px $neonGreen;
+      }
 	}
 }
