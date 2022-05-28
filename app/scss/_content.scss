@@ -89,6 +89,10 @@
 		&__container {
 			max-width: 500px;
 		}
+      &__seperator {
+         .horizontal {
+            width: 45%;
+         }
 		&__btn {
 			cursor: pointer;
 			width: 65px;
