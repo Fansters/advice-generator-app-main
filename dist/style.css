@@ -53,7 +53,7 @@
 .content__seperator .vertical {
   display: inline-block;
   border-radius: 25px;
-  width: 7px;
+  width: 6px;
   height: 18px;
   background-color: #cee3e9;
 }
@@ -79,10 +79,29 @@
 }
 
 .content__btn button div {
+  padding: 5px 2px;
   border-radius: 5px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   width: 25px;
   height: 25px;
   background-color: #1f2632;
+}
+
+.content__btn button div span {
+  display: inline-block;
+  text-align: center;
+  border-radius: 100%;
+  width: 3px;
+  height: 3px;
+  margin: 0 3px;
+  font-size: 2px;
+  color: white;
+  background-color: #52ffa8;
+}
+
+.content__btn button div .dot3 {
+  margin: 0 5px;
 }
 
 html {
@@ -129,6 +148,11 @@ a:hover {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+}
+
+.flex-jc-sa {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 
 .flex-jc-c {
