@@ -109,6 +109,9 @@
   .content__container {
     max-width: 500px;
   }
+  .content__seperator .horizontal {
+    width: 42%;
+  }
   .content__btn {
     cursor: pointer;
     width: 65px;
