@@ -56,34 +56,26 @@
 		left: 50%;
 		transform: translate(-50%, -50%);
 		button {
-			padding: 0;
-			margin: 0;
-			text-align: center;
 			border: none;
 			background-color: transparent;
 			div {
-            padding: 5px 2px;
+				padding: 5px 2px;
 				border-radius: 5px;
-            flex-wrap: wrap;
+				flex-wrap: wrap;
 				width: 25px;
 				height: 25px;
 				background-color: $darkBlue;
 				span {
-               // flex-basis: 10px;
-               // flex-grow: 2;
 					display: inline-block;
-					text-align: center;
 					border-radius: 100%;
 					width: 3px;
 					height: 3px;
-               margin: 0 3px;
-					font-size: 2px;
-					color: white;
+					margin: 0 3px;
 					background-color: $neonGreen;
 				}
-            .dot3{
-               margin: 0 5px;
-            }
+				.dot3 {
+					margin: 0 5px;
+				}
 			}
 		}
 	}
