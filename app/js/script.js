@@ -18,7 +18,6 @@ function getAdvice() {
       return response.json();
    }).then(adviceData => {
       const adviceObj = adviceData.slip;
-      console.log(adviceObj);
       resultDiv.innerHTML = `<p>“${adviceObj.advice}”</p>`
       idHead.innerHTML = `Advice #${adviceObj.id}`
    }).catch(error => {
