@@ -13,7 +13,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](.\images\projectApiGen.jpg)
+![](https://github.com/Fansters/advice-generator-app-main/blob/master/images/projectApiGen.jpg)
 
 ### Links
 
