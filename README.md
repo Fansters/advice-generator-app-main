@@ -13,7 +13,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](\images\projectFinished.png)
+![](\images\projectApiGen.jpg)
 
 ### Links
 
