@@ -77,7 +77,7 @@
   background-color: transparent;
 }
 
-.content__btn button div {
+.content__btn button .dice {
   padding: 5px 2px;
   border-radius: 5px;
   -ms-flex-wrap: wrap;
@@ -87,7 +87,7 @@
   background-color: #1f2632;
 }
 
-.content__btn button div span {
+.content__btn button .dice span {
   display: inline-block;
   border-radius: 100%;
   width: 3px;
@@ -96,7 +96,7 @@
   background-color: #52ffa8;
 }
 
-.content__btn button div .dot3 {
+.content__btn button .dice .dot3 {
   margin: 0 5px;
 }
 
