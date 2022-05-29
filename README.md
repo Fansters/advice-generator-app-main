@@ -13,11 +13,11 @@ Your users should be able to:
 
 ### Screenshot
 
-![](.\images\projectFinished.png)
+![](\images\projectFinished.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://heroic-truffle-571ff0.netlify.app/)
+- Solution URL: [Project](https://heroic-truffle-571ff0.netlify.app/)
 
 ### Built with
 
