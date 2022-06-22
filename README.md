@@ -17,7 +17,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Project](https://heroic-truffle-571ff0.netlify.app/)
+- Solution URL: [Project](https://storied-yeot-059108.netlify.app/)
 
 ### Built with
 
